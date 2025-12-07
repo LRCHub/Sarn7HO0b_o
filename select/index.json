@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LIKEY",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-07T08:43:00.913067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Likey",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Likey_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Me Likey Dat",
+      "artist": "The Lonely Island",
+      "has_synced": false,
+      "path": "select/02_Me_Likey_Dat_The_Lonely_Island.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LIKEY - Japanese ver.",
+      "artist": "Twice",
+      "has_synced": true,
+      "path": "select/03_LIKEY_-_Japanese_ver._Twice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LIKEY -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_LIKEY_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LIKEY",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/05_LIKEY_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LIKEY -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_LIKEY_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LIKEY",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/07_LIKEY_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Me Likey",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/08_Me_Likey_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Me Likey",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/09_Me_Likey_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Me Likey",
+      "artist": "T-Squad",
+      "has_synced": true,
+      "path": "select/10_Me_Likey_T-Squad.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LIKEY (instrumental)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/11_LIKEY_(instrumental)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LIKEY (Japanese Version)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/12_LIKEY_(Japanese_Version)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Me Likey Dat [Explicit]",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/13_Me_Likey_Dat_[Explicit]_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LIKEY (KRONOS REMIX)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/14_LIKEY_(KRONOS_REMIX)_TWICE.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Me Likey (feat. Kirko Bangz)",
+      "artist": "Trevor Jackson",
+      "has_synced": false,
+      "path": "select/15_Me_Likey_(feat._Kirko_Bangz)_Trevor_Jackson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Likey (English Cover by JANNY)",
+      "artist": "Twice (트와이스)",
+      "has_synced": true,
+      "path": "select/16_Likey_(English_Cover_by_JANNY)_Twice_(트와이스).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIKEY",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_LIKEY_TWICE.txt"
+    }
+  ]
+}
